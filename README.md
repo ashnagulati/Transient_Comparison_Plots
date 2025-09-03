@@ -1,2 +1,24 @@
-# Transient_Comparison_Plots
-This repository contains curated datasets and plotting scripts used to explore the radio luminosity, temporal evolution, and energy–velocity phase space of astrophysical transients. The sources include GRBs, TDEs, SNe, FBOTs, CL-AGN, and other rare classes, alongside our new source ASKAP J0055–2558.
+# Transient Radio Luminosity and Energy–Velocity Plots
+
+This repository contains curated datasets and plotting scripts used to explore the radio luminosity, temporal evolution, and energy–velocity phase space of astrophysical transients. The sources include gamma-ray bursts (GRBs), tidal disruption events (TDEs), supernovae (SNe), fast blue optical transients (FBOTs), changing-look AGN (CL-AGN), and other rare classes, alongside our new source ASKAP J0055–2558.
+
+## Contents
+- **Data**: CSV files containing luminosity, time, energy, and velocity measurements. Each file corresponds to a transient class or a specific object.
+- **Plots**: Python/Matplotlib scripts to generate:
+  - Luminosity vs. time plots
+  - Energy vs. velocity plots
+
+## Methodology
+- Radio luminosities are calculated from flux densities and distances, with k-corrections applied where appropriate.
+- Transients are grouped into physical classes (e.g., GRBs, jetted TDEs, thermal TDEs, SNe, FBOTs).
+- ASKAP J0055–2558 is highlighted as a new candidate for comparison across parameter space.
+
+## Requirements
+- Python 3.9+
+- `pandas`, `numpy`, `matplotlib`, `scipy`
+
+## Usage
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
+   cd <repo-name>
