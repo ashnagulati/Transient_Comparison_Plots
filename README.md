@@ -26,7 +26,7 @@ This repository contains curated datasets and plotting scripts used to explore t
 
 ##  Citation & Attribution
 
-If you use **data** from this repository, please cite the original sources as indicated in the `.bib` files and RTF documentation, along with Gulati et al. (2025, *ApJ*)
+If you use data from this repository, please cite both the original sources (as listed in the accompanying .bib and .RTF files) **and** Gulati et al. (2025, ApJ).
 
 
 
