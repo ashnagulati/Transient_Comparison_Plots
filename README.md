@@ -20,5 +20,5 @@ This repository contains curated datasets and plotting scripts used to explore t
 ## Usage
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/ashnagulati/Transient_Comparison_Plots.git
+
