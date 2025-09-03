@@ -22,3 +22,11 @@ This repository contains curated datasets and plotting scripts used to explore t
    ```bash
    git clone https://github.com/ashnagulati/Transient_Comparison_Plots.git
 
+---
+
+##  Citation & Attribution
+
+If you use **data** from this repository, please cite the original sources as indicated in the `.bib` files and RTF documentation, along with Gulati et al. (2025, *ApJ*)
+
+
+
