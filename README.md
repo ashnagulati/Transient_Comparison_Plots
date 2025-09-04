@@ -11,6 +11,14 @@ This repository contains curated datasets and plotting scripts used to explore t
 - Transients are grouped into physical classes (e.g., GRBs, jetted TDEs, thermal TDEs, SNe, FBOTs).
 - ASKAP J0055–2558 is highlighted as a new candidate for comparison across parameter space.
 
+## Methodology
+- **Band:** All CSV radio data are **8–10 GHz** only.
+- **Luminosity:** $`L_\nu = 4\pi D_L^2\,S_\nu\,(1+z)`$ and .
+- **GRBs:** Bulk $`\Gamma \approx 1/\theta_j`$ unless a direct $`\Gamma`$ is reported.
+- **Classes:** short-/long-GRBs, jetted/thermal/delayed TDEs, Type II/rebrightening SNe, FBOTs, AGN
+- **Candidate:** Highlight **ASKAP J0055–2558** for comparison.
+
+
 ## Requirements
 - `pandas`, `numpy`, `matplotlib`, `scipy`, `astropy`, `jupyter`
 
