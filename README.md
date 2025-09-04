@@ -16,14 +16,14 @@ This repository contains curated datasets and plotting scripts used to explore t
 
 ## Quickstart
 
-# 1) Clone and install requirements
+### 1) Clone and install requirements
 ```bash
 git clone https://github.com/ashnagulati/Transient_Comparison_Plots.git
 cd Transient_Comparison_Plots
 pip install pandas numpy matplotlib scipy astropy jupyter
 ```
 
-# 2) Reproduce figures
+### 2) Reproduce figures
 `jupyter notebook  # then open the notebooks under Energy_Velocity_Plot/ and Luminosity_Time_Plot/`
 
 ---
