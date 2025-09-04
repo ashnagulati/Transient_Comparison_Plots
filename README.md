@@ -14,7 +14,6 @@ This repository contains curated datasets and plotting scripts used to explore t
 - ASKAP J0055–2558 is highlighted as a new candidate for comparison across parameter space.
 
 ## Requirements
-- Python 3.9+
 - `pandas`, `numpy`, `matplotlib`, `scipy`
 
 ## Usage
