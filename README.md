@@ -28,11 +28,11 @@ The directories also contain bibliographic files such as:
 - `.rtf` or `.txt` reference lists — original sources of radio measurements used in the paper
 
 ## Methodology
-- **Band:** All CSV radio data are **8–10 GHz** only.
-- **Luminosity:** $`L_\nu = 4\pi D_L^2\,S_\nu\,(1+z)`$ and .
-- **GRBs:** Bulk $`\Gamma \approx 1/\theta_j`$ unless a direct $`\Gamma`$ is reported.
+- **Band:** All CSV radio data are **8–10 GHz** only
+- **Luminosity:** $`L_\nu = 4\pi D_L^2\,S_\nu\,(1+z)`$ 
+- **GRBs:** Bulk $`\Gamma \approx 1/\theta_j`$ unless a direct $`\Gamma`$ is reported
 - **Classes:** short-/long-GRBs, jetted/thermal/delayed TDEs, Type II/rebrightening SNe, FBOTs, AGN
-- **Candidate:** Highlight **ASKAP J0055–2558** for comparison.
+- **Candidate:** Highlight **ASKAP J0055–2558** for comparison
 
 
 ## Requirements
