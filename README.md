@@ -58,7 +58,7 @@ Thus, the code and data are tightly integrated with the science paper: the repo 
 
 ##  Citation & Attribution
 
-If you use data from this repository, please cite both the original sources (as listed in the accompanying .bib and .RTF files) **and** and the main paper: Gulati et al. (2025, ApJ).
+If you use data from this repository, please cite both the original sources (as listed in the accompanying `.bib` and `.RTF` files) **and** the main paper: **Gulati et al. (2025, ApJ)**.
 
 
 
