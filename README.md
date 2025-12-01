@@ -1,10 +1,10 @@
 # Transient Radio Luminosity (8-10 GHz) and Energy–Velocity Plots
 
-This repository contains curated datasets and plotting scripts used to explore the radio luminosity temporal evolution, and energy–velocity phase space of astrophysical transients. The data include radio observations from diverse transient classes (e.g. Gamma‑Ray Bursts (GRBs), Tidal Disruption Events (TDEs), Supernovae (SNe), Fast Blue Optical Transients (FBOTs), changing-look AGN (CL-AGN), and other rare classes), plus a newly identified source: ASKAP J0055–2558. This repo supports the analysis and figures presented in the associated paper (Gulati et al. 2025, ApJ), as well as enabling reuse of the curated data and plotting workflows by other researchers.
+This repository contains curated datasets and plotting scripts used to explore the radio luminosity temporal evolution, and energy–velocity phase space of astrophysical synchrotron transients. The data include radio observations from diverse transient classes (e.g. Gamma‑Ray Bursts (GRBs), Tidal Disruption Events (TDEs), Supernovae (SNe), Fast Blue Optical Transients (FBOTs), changing-look AGN (CL-AGN), and other rare classes), plus a newly identified source: ASKAP J0055–2558. This repo supports the analysis and figures presented in the associated paper (Gulati et al. 2025, ApJ), as well as enabling reuse of the curated data and plotting workflows by other researchers.
 
 ## Repository Contents
 
-1. Data Files 
+### 1) Data Files 
 
 All data files are provided in CSV format within the data directories, organized by transient class. These files contain:
 - Source name / identifier
@@ -15,13 +15,13 @@ All data files are provided in CSV format within the data directories, organized
 - Classification (GRB, TDE, SN, FBOT, CL-AGN, etc.)
 - Observed kinetic energies and velocities
 
-2. Jupyter Notebooks
+### 2) Jupyter Notebooks
 
 The data directories include Jupyter notebooks — for data processing, plotting, and generating figures:
 - [Energy–Velocity plots](./Energy_Velocity_Plot/) — notebook to build E–v phase-space figures and CSVs.
 - [Luminosity–Time plots](./Luminosity_Time_Plot/) — notebook for radio luminosity vs. time and CSVs.
 
-3. References
+### 3) References
 
 The directories also contain bibliographic files such as:
 - `.bib` files — citations for all observational data sources
