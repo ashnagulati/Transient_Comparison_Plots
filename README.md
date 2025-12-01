@@ -8,12 +8,12 @@ This repository contains curated datasets and plotting scripts used to explore t
 
 All data files are provided in CSV format within the data directories, organized by transient class. These files contain:
 - Source name / identifier
-- Redshift or host-galaxy distance
-- Epoch of observation
-- Observed flux densities
-- Measurement uncertainties, where available
+- Redshift or host-galaxy distance in `Mpc`
+- Time post explosion in `days`
+- Observed flux densities with uncertainties in `mJy`
+- Observation frequency in `GHz`
 - Classification (GRB, TDE, SN, FBOT, CL-AGN, etc.)
-- Observed kinetic energies and velocities
+- Observed kinetic energies in `erg` and velocities as $`\Gammma\beta`$
 
 ### 2) Jupyter Notebooks
 
