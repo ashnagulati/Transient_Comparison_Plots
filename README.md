@@ -13,7 +13,7 @@ All data files are provided in CSV format within the data directories, organized
 - Observed flux densities with uncertainties in `mJy`
 - Observation frequency in `GHz`
 - Classification (GRB, TDE, SN, FBOT, CL-AGN, etc.)
-- Observed kinetic energies in `erg` and velocities as $`\Gammma\beta`$
+- Observed kinetic energies in `erg` and velocities as $`\Gamma\beta`$
 
 ### 2) Jupyter Notebooks
 
