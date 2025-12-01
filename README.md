@@ -24,7 +24,7 @@ The data directories include Jupyter notebooks — for data processing, plotting
 3. References
 
 The directories also contain bibliographic files such as:
-- `.bib files` — citations for all observational data sources
+- `.bib` files — citations for all observational data sources
 - `.rtf` or `.txt` reference lists — original sources of radio measurements used in the paper
 
 ## Methodology
