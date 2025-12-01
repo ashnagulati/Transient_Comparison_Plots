@@ -51,7 +51,7 @@ jupyter notebook
 ### 2) Reproduce figures
 Then open the notebooks under [Energy–Velocity plots](./Energy_Velocity_Plot/) and [Luminosity–Time plots](./Luminosity_Time_Plot/) 
 
-The notebooks take raw observational radio data (flux densities, redshifts, times) and compute physical quantities: e.g., luminosities (with k-correction), co-moving distances, transformations needed for cosmology, etc. Light-curves and phase-space (energy vs. velocity) plots are generated for various transient classes — allowing comparison across classes (GRBs, TDEs, SNe, FBOTs, CL-AGN, ASKAP J0055–2558, etc.). CSV summary files are generated for ease of reuse — enabling external analysis without re-running the full notebooks. The workflow reproduces the figures and comparative analyses presented in the associated publication (Gulati et al. 2025, ApJ).
+The notebooks take raw observational radio data (flux densities, redshifts, times) and compute physical quantities: e.g., luminosities (with k-correction), co-moving distances, transformations needed for cosmology, etc. Light-curves and phase-space (energy vs. velocity) plots are generated for various transient classes — allowing comparison across classes (GRBs, TDEs, SNe, FBOTs, CL-AGN, ASKAP J0055–2558, etc.). CSV files have been provided for ease of reuse — enabling external analysis without re-running the full notebooks. The workflow reproduces the figures and comparative analyses presented in the associated publication (Gulati et al. 2025, ApJ).
 Thus, the code and data are tightly integrated with the science paper: the repo enables reproduction, verification, and further reuse of the analyses.
 
 ---
